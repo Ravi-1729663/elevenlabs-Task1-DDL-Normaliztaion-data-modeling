@@ -12,8 +12,7 @@ It includes both standard social media functionalities (users, posts, comments, 
 
 ## Tools Used
 - **MySQL 8.0+**  
-- **MySQL Workbench** (for ER diagram & schema visualization)  
-- Optional: **pgAdmin / SQLiteStudio**  
+- **MySQL Workbench** (for ER diagram & schema visualization)    
 
 ---
 
@@ -101,3 +100,7 @@ It includes both standard social media functionalities (users, posts, comments, 
 2. Run the SQL script in **MySQL Workbench** or via command line:  
    ```bash
    mysql -u <username> -p < connects.sql
+
+## 🌟 About Me
+
+Hi there! I'm **RAVI SANKAR REDDY BOVILLA **. I’m  passionate about data analyst and data engineering
